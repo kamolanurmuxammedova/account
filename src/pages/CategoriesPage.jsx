@@ -142,7 +142,7 @@ export default function CategoriesPage() {
                   e.target.onerror = null;
                   e.target.src = FALLBACK_IMAGE;
                 }}
-              />
+              />  
 
               <div className="p-3 flex flex-col gap-2">
                 <span className="font-medium truncate text-sm">
